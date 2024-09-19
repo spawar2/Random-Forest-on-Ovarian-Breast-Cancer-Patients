@@ -9,4 +9,4 @@ Claflin University, Orangeburg, South Carolina, USA.
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
-README.md: Breast, Ovarian, Colon, Lung cancer Microarray data read, quantile  Normalization, data split, cluster_analysis function for KMEANS ANALYSIS, Hierarchial, Random Forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
+README.md: Breast, Ovarian, Colon, Lung cancer Microarray data read, quantile  Normalization, data Test-Train Split, Neural, cluster_analysis function for KMEANS ANALYSIS, Hierarchial, Random Forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
