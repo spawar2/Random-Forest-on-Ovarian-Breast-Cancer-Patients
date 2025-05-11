@@ -9,6 +9,11 @@ Claflin University, Orangeburg, South Carolina, United States of America (USA).
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
+Common cancer biomarkers of breast and ovarian types identified through artificial intelligence, Publication: Wileys: Chemical Biology and Drug Design, Publication date: May 15, 2020, IF=2.9, Shrikant Pawar, Tuck Onn Liew, Stanam, A., Dr. Lahiri, collaboration with Dr. Chandrajit. Lahiri, Sunway University, Malaysia .(Cited by 10)^^^ DOI: 10.1111/cbdd.13672, Volume: 96, Issue: 3, Pages: 995-1004.††
+<img width="686" alt="Screenshot 2025-05-11 at 2 05 54 PM" src="https://github.com/user-attachments/assets/9e537e91-c690-448f-b738-6c5f6f4dc715" />
+
+https://campuspress.yale.edu/shrikantpawar/files/2025/05/Common_cancer_biomarkers_of_breast_and_o.pdf
+
 README.md: Breast, Ovarian, Colon, Lung cancer Microarray data read, quantile  Normalization, data Test-Train Split, Neural, cluster_analysis function for KMEANS ANALYSIS, Hierarchial, Random Forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
 
