@@ -59,6 +59,9 @@ https://shiny.posit.co/
 https://cran.r-project.org/package=ggbeeswarm
 https://cran.r-project.org/package=speedglm
 https://magrittr.tidyverse.org/
+https://www.r-project.org/
+https://www.bioconductor.org/packages/3.21/BiocViews.html#___Software
+https://www.rdocumentation.org/packages/survival/versions/2.11-4/topics/survfit
 
 https://www.python.org/
 https://scikit-learn.org/
