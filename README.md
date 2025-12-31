@@ -16,7 +16,7 @@ https://campuspress.yale.edu/shrikantpawar/files/2025/05/Common_cancer_biomarker
 
 README.md: Breast, Ovarian, Colon, Lung cancer Microarray data read, quantile  Normalization, data Test-Train Split, Neural, cluster_analysis function for KMEANS ANALYSIS, Hierarchial, Random Forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
-
+Accuracy (3, 5, 10 Fold similar values).
 Testing: table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069.
 Associated Press Style
 
