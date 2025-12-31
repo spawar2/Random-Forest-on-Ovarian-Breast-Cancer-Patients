@@ -16,7 +16,32 @@ https://campuspress.yale.edu/shrikantpawar/files/2025/05/Common_cancer_biomarker
 
 README.md: Breast, Ovarian, Colon, Lung cancer Microarray data read, quantile  Normalization, data Test-Train Split, Neural, cluster_analysis function for KMEANS ANALYSIS, Hierarchial, Random Forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
-Accuracy (3, 5, 10 Fold similar values).
+	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
+	•	recall0.73325
+	•	f1-score0.7567079463364293
+	•	Support4000  
+	•	Accuracy, precision0.7488820899035067
+	•	recall0.7953011747063234
+	•	f1-score0.7713939393939394
+	•	Support4001 
+	•	Accuracy, precision0.7652992539069772
+	•	recall0.7642755873531617
+	•	f1-score0.7640509428651844
+	•	Support8001  
+	•	Accuracy, precision0.7652972020179628
+	•	recall0.7642794650668666
+	•	f1-score0.7640518606250305
+	•	support8001
+
+              Kappa : 1   
+        Sensitivity : 1.0000     
+        Specificity : 1.0000     
+     Pos Pred Value : 1.0000     
+     Neg Pred Value : 1.0000     
+         Prevalence : 0.3333     
+     Detection Rate : 0.3333     
+
+Detection Prevalence : 0.3333 Balanced Accuracy : 1.0000
 Testing: table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069.
 Associated Press Style
 
