@@ -15,7 +15,7 @@ Common cancer biomarkers of breast and ovarian types identified through artifici
 https://campuspress.yale.edu/shrikantpawar/files/2025/05/Common_cancer_biomarkers_of_breast_and_o.pdf
 
 README.md: Breast, Ovarian, Colon, Lung cancer Microarray data read, quantile  Normalization, data Test-Train Split, Neural, cluster_analysis function for KMEANS ANALYSIS, Hierarchial, Random Forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
-selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table).
+selected function(getGEO, normalize.quantiles, merge, cluster_analysis, hclust, Kmeans, mas5, rowMeans, randomForest, survfit, chisq.test, pData, rep, colnames, factor, eBayes, decideTests, topTable, read.tree, plot, str, write.tree, library, setwd, ReadAffy, exprs, read.csv, read.delim, write.table, roundPhylogram, unroot, str, write.tree, RMA, read.table). Evaluation metrics:
 	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
 	•	recall0.73325
 	•	f1-score0.7567079463364293
